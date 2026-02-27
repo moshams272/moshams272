@@ -1,4 +1,50 @@
-## Hi there 👋
+# Hi, I'm Mohamed Shams
+
+<div align="left">
+
+⚡ **Computer Science Student** | ⚙️ **Problem Solver** | 📘 **Continuous Learner**
+
+> 🔨 Crafting impactful software solutions
+> 
+> 📌 Dedicated to knowledge sharing and collaboration
+
+### 🔗 Let's Connect! 
+Open for technical discussions and project collaborations:
+
+<div align="left">
+  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedshamseldeen95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams272)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mo_Shams/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mo_Shams)
+
+</div>
+
+---
+
+## 🐍 Commits Sneak Peek
+
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/moshams272/moshams272/output/github-snake.svg" width="100%" />
+</picture>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moshams272&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **moshams272/moshams272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -23,8 +23,11 @@ Open for technical discussions and project collaborations:
 ---
 
 ## 🐍 Commits Sneak Peek
-
-![Snake animation](https://github.com/moshams272/moshams272/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moshams272/moshams272/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=moshams272&theme=transparent&hide_border=true" alt="GitHub Streak">

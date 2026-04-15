@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Shams
+# Hi, I'm Mohamed Shams👋
 
 <p align="center">
     <a href="https://drive.google.com/uc?export=download&id=1U71iqannGDeAszeTuEcFCVp9gE3zi-3k">
@@ -8,14 +8,24 @@
 
 <div align="left">
 
-⚡ **Computer Science Student** | ⚙️ **Problem Solver** | 📘 **Continuous Learner**
+I'm a Fourth-year Computer Science student at Assiut University and a **JavaScript Developer** specializing primarily in the **Frontend**, with a growing passion for diving into the **Backend**. I love solving complex algorithmic challenges, contributing to **Open Source** projects, and building impactful software within Linux/Ubuntu environments.
 
-> 🔨 Crafting impactful software solutions
-> 
-> 📌 Dedicated to knowledge sharing and collaboration
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
 ### 🔗 Let's Connect! 
-Open for technical discussions and project collaborations:
+
+Open for technical discussions, Open Source collaborations, sharing problem-solving strategies, or even teaming up for a quick Mobile Legends match! 😄
 
 <div align="left">
   
@@ -27,8 +37,6 @@ Open for technical discussions and project collaborations:
 </div>
 
 ---
-
-## 🐍 Commits Sneak Peek
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moshams272/moshams272/output/github-contribution-grid-snake.svg">
@@ -38,30 +46,3 @@ Open for technical discussions and project collaborations:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=moshams272&theme=transparent&hide_border=true" alt="GitHub Streak">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**moshams272/moshams272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

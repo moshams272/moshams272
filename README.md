@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://drive.google.com/uc?export=download&id=1MYAGegG-sUB7dwmfWSFFrTwfJro21JgO">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=%2B2k+Problems+Solved;Click+to+Download+My+CV&font=Bold+Code&center=true&color=0077B5&size=25&pause=2000&width=600">
+      <img src="https://readme-typing-svg.demolab.com/?lines=%2B2k+Problems+Solved;Click+to+Download+My+CV&font=Bold+Code&center=true&color=0077B5&size=25&pause=2000&width=600">
     </a>
 </p>
 

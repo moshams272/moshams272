@@ -8,7 +8,7 @@
 
 <div align="left">
 
-I'm a Fourth-year Computer Science student at Assiut University and a **JavaScript Developer** specializing primarily in the **Frontend**, with a growing passion for diving into the **Backend**. I love solving complex algorithmic challenges, contributing to **Open Source** projects, and building impactful software within Linux/Ubuntu environments.
+I'm a **Computer Science** graduate from Assiut University and a **JavaScript Developer** specializing primarily in the **Frontend**, with a growing passion for diving into the **Backend**. I love solving complex algorithmic challenges, contributing to **Open Source** projects, and building impactful software within Linux/Ubuntu environments.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
